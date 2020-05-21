@@ -1,6 +1,4 @@
-import pytest
 from WordPuzzle import WordPuzzle
-
 
 class Test:
     word_puzzle = WordPuzzle()
